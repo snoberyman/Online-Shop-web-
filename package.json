@@ -1,0 +1,22 @@
+{
+  "name": "express-exp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Yaman Sanobar",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.8.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.0.2",
+    "mongodb": "^3.5.9",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0"
+  }
+}
