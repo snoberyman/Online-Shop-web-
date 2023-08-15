@@ -1,2 +1,2 @@
 # Online-Shop-web-
-An online shop website built with NodeJS, Express, and MongoDB
+An online shop example website built with JavaScript, NodeJS, Express, and MongoDB
